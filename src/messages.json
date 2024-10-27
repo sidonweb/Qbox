@@ -1,0 +1,20 @@
+[
+  {
+    "title": "User123",
+    "content": "Hey, how are you doing today?",
+    "received": "10 minutes ago",
+    "pfp": "https://github.com/shadcn.png"
+  },
+  {
+    "title": "SecretAdmirer",
+    "content": "I really liked your recent post!",
+    "received": "2 hours ago",
+    "pfp": "https://wallpapers-clan.com/wp-content/uploads/2022/05/meme-pfp-02.jpg"
+  },
+  {
+    "title": "MysteryGuest",
+    "content": "Recommend me a book?",
+    "received": "1 day ago",
+    "pfp": "https://wallpapers-clan.com/wp-content/uploads/2022/05/meme-pfp-08.jpg"
+  }
+]
