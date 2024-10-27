@@ -58,7 +58,7 @@ export async function POST(request: Request) {
         //send verification email
         const emailResponse = await sendVerificationEmail(
             email,
-            password,
+            username,
             VerificationCode
         );
 
