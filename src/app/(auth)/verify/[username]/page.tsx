@@ -20,7 +20,7 @@ import { useRouter } from "next/navigation"
 import {  useForm } from "react-hook-form";
 import * as z from 'zod'
 
-const page = () => {
+const Page = () => {
     const router = useRouter();
     const params = useParams<{ username: string }>()
     const { toast } = useToast()
@@ -79,4 +79,4 @@ const page = () => {
         </div>
     </div>
 }
-export default page
+export default Page
